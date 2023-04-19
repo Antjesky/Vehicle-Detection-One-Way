@@ -1,4 +1,4 @@
-# Projekt Fahrzeugarterkennung
+# Projekt Vihicle-Detection-One-Way
 
 This repository is for [Visual Studio Code] and aims to extract vehicles from a video stream, recognise them and classify them by vehicle type, including trucks, cars, mopeds and buses.
 VEHICLE-DETECTION-ONE-WAY uses the DETR model from Facebook, which uses a Transformer-based architecture. It is supplemented by the instance segmentation part and is thus supposed to be able to recognise and segment vehicles in images by identifying and marking each vehicle as a separate instance.
