@@ -1,0 +1,13 @@
+{
+    "truck": 32,
+    "car": 118,
+    "airplane": 1,
+    "bus": 4,
+    "backpack": 1,
+    "person": 5,
+    "skateboard": 1,
+    "clock": 1,
+    "bench": 1,
+    "handbag": 1,
+    "train": 1
+}

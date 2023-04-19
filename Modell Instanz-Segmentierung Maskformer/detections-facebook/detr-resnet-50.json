@@ -1,0 +1,17 @@
+{
+    "pavement-merged": 123,
+    "road": 183,
+    "car": 356,
+    "truck": 19,
+    "wall-other-merged": 20,
+    "building-other-merged": 7,
+    "tree-merged": 35,
+    "fire hydrant": 1,
+    "bus": 7,
+    "person": 9,
+    "grass-merged": 1,
+    "skateboard": 1,
+    "sky-other-merged": 2,
+    "dog": 1,
+    "handbag": 2
+}
