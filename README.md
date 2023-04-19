@@ -1,3 +1,28 @@
+# Projekt Fahrzeugarterkennung
+
+This repository is for [Visual Studio Code] and aims to extract vehicles from a video stream, recognise them and classify them by vehicle type, including trucks, cars, mopeds and buses.
+VEHICLE-DETECTION-ONE-WAY uses the DETR model from Facebook, which uses a Transformer-based architecture. It is supplemented by the instance segmentation part and is thus supposed to be able to recognise and segment vehicles in images by identifying and marking each vehicle as a separate instance.
+
+The repository is based on the work of HuggingFace Transformers, a Python library that implements several state-of-the-art AI algorithms.  The repository builds on the Transformers tutorials https://github.com/NielsRogge/Transformers-Tutorials.
+
+# DETR model from Facebook
+
+The DERT model is explained at
+https://github.com/NielsRogge/Transformers-Tutorials/blob/master/DETR/Evaluating_DETR_on_COCO_validation_2017.ipynb
+
+# MaskFormer instance segmentation model
+
+The Maskformer model is described in detail at
+https://github.com/NielsRogge/Transformers-Tutorials/tree/master/MaskFormer
+https://github.com/NielsRogge/mmdetection/tree/master/configs/maskformer
+
+
+# Licence
+
+All licence conditions contained therein apply to this repository.
+
+
+
 # python-template
 
 Precondition:
